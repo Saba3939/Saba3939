@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=I%E2%80%99m+Tsujimoto+Kento;I%E2%80%99m+a+student" alt="Typing SVG" />
   </a>
 </p>
+
 ## 🚀 About Me
 - 💻 Web Developer in Kosen
 - 🌱 Learning Next.js and TypeScript
