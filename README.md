@@ -1,4 +1,18 @@
-<p align="left">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba3939&theme=dark&layout=donut" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Saba3939&theme=dark&show_icons=true"/>
-</p>
+# Welcome to Tsujimoto Kento's GitHub Profile! 👋
+
+## 🚀 About Me
+- 💻 Web Developer in Kosen
+- 🌱 Learning Next.js and TypeScript
+- 📫 How to reach me: kents3939@gmail.com 
+
+## 🛠️ Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?logo/firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?logo=supabase&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Saba3939&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Saba3939&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saba3939&layout=compact&theme=radical)
